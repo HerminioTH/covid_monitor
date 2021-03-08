@@ -1,5 +1,5 @@
 # covid_monitor
-Este código 
+Rotinas simples para monitorar a situação da pandemia nas diferentes cidades brasileiras.
 
 ### Dependências
 - [pandas](https://pandas.pydata.org/)
