@@ -31,4 +31,4 @@ plt.show()
 
 produces
 
-![](https://github.com/HerminioTH/covid_monitor/blob/develop/figures/Figure_1.pdf)
+![](https://github.com/HerminioTH/covid_monitor/tree/develop/figures/Figure_1.pdf)
