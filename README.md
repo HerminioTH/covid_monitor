@@ -31,4 +31,4 @@ plt.show()
 
 produces
 
-<img src="figures/Figure_1.pdf" alt="gmsh" height=250 width=600  />
+<img src="figures/Figure_1.png" alt="gmsh" height=250 width=600  />
