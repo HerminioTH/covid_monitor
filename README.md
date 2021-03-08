@@ -31,4 +31,4 @@ plt.show()
 
 produces
 
-![](https://github.com/HerminioTH/covid_monitor/tree/develop/figures/Figure_1.pdf)
+<img src="figures/Figure_1.pdf" alt="gmsh" height=250 width=600  />
