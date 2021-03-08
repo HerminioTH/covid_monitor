@@ -28,3 +28,7 @@ plotCummulativeCases(cidades, data, axis[0][0], axis[0][1])
 plotDailyCases(cidades, data, axis[1][0], axis[1][1])
 plt.show()
 ```
+
+produces
+
+![](https://nschloe.github.io/perfplot/concat.svg)
