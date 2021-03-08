@@ -29,6 +29,6 @@ plotDailyCases(cidades, data, axis[1][0], axis[1][1])
 plt.show()
 ```
 
-produces
+Output:
 
 <img src="figures/Figure_1.png" alt="example" height=650 width=800  />
