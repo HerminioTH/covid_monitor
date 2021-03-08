@@ -31,4 +31,4 @@ plt.show()
 
 produces
 
-![](https://nschloe.github.io/perfplot/concat.svg)
+![](https://github.com/HerminioTH/covid_monitor/blob/develop/figures/Figure_1.pdf)
